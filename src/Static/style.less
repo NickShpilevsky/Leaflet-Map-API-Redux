@@ -1,0 +1,61 @@
+@white: #fff;
+@paper: #FAEBD7;
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+#root, .leaflet-container {
+  width: 100vw;
+  height: 100vh;
+}
+
+.wrapper {
+  background: url("./images/background.jpg");
+  background-size: cover;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.paperWrapper {
+  max-width: 100rem;
+  background: @paper;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.controlInfoModal {
+  flex-direction: column;
+  padding: 5px;
+  display: flex;
+}
+
+.linkButton {
+  text-decoration: none;
+  margin-left: 10px;
+}
+
+.linearWrapper {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.right {
+  position: absolute;
+  right: 0;
+  margin-right: 2rem;
+}
+
+.about {
+  width: 70rem;
+}
