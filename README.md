@@ -1,6 +1,6 @@
 # Leaflet-Map-API-Redux
 
-A test project. Made it using React, Redux, Webpack, LESS, [Leaflet Map API](https://leafletjs.com/) and Sign in with Facebook.
+This project is made using React, Redux, Webpack, LESS, [Leaflet Map API](https://leafletjs.com/) and Sign in with Facebook.
 
 # Usage
 1. npm i
