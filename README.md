@@ -8,3 +8,6 @@ A test project. Made it using React, Redux, Webpack, LESS, [Leaflet Map API](htt
 3. open http://localhost:9090
 
 # Demo
+![photo](demos/1.PNG)
+
+![photo](demos/2.PNG)
